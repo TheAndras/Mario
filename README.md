@@ -1,4 +1,4 @@
-I created this little game for my JAVA course exam. 
+I created this little game for my JAVA course exam a year ago. 
 This game inspired by Super Mario and Cat Mario.
 
 The game contains a lot of trap and wild creatures, this makes the game difficult but It's possible to done after a few try
